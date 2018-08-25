@@ -1,0 +1,17 @@
+.Homepage-top{
+    display:grid;
+    grid-template-columns: 250px 600px;
+    padding:50px;
+    border: 1px solid black;
+    margin:50px;
+    width: 950px;
+}
+
+.Homepage-top-reverse{
+    display:grid;
+    grid-template-columns: 600px 250px;
+    padding:50px;
+    border: 1px solid black;
+    margin:50px;
+    width: 950px;
+}
